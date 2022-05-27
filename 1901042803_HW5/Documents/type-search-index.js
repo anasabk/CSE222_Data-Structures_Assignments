@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and KW","u":"allclasses-index.html"},{"p":"Q3","l":"BinaryHeap"},{"p":"Q4","l":"BinarySearchTree"},{"p":"Q3","l":"BinaryTree"},{"p":"<Unnamed>","l":"Driver"},{"p":"Q3","l":"BinaryTree.Node"},{"p":"Q2","l":"QuadTree"},{"p":"Q4","l":"SearchTree"}];updateSearchResults();
