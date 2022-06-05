@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"DataStructures"},{"l":"DataStructures.Trees"},{"l":"Questions"},{"l":"Sorting"},{"l":"Test"}];updateSearchResults();
