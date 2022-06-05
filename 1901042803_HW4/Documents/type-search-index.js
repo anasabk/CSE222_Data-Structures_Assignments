@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and KW","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Driver"},{"p":"Programs","l":"Q1"},{"p":"Programs","l":"Q2"},{"p":"Programs","l":"Q3"},{"p":"Programs","l":"Q4"},{"p":"Programs","l":"Q5"}];updateSearchResults();
